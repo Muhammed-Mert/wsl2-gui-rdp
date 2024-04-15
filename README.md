@@ -48,5 +48,5 @@
 - https://www.microsoft.com/store/productId/9N0DX20HK701
 
 ## Distro Öğrenme + kapatma
-wsl --list --verbose
-wsl -t DISTRO-NAME
+- `wsl --list --verbose`
+- `wsl -t DISTRO-NAME`
