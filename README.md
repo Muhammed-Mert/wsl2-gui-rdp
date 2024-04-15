@@ -50,3 +50,6 @@
 ## Distro Öğrenme + kapatma
 - `wsl --list --verbose` Distro Öğrenme
 - `wsl -t DISTRO-NAME` Distro Kapatma
+
+## Bağlantı
+- localhost:3390
